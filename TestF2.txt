@@ -1,1 +1,2 @@
 This is my new file created in Local Repo of GIT 
+This line is added to the file in Global Repo
